@@ -11,3 +11,5 @@ Tipos de escalada
 10- Escalada en solitario (con seguro pero sin compañero)
 11- Escalada psicobloc (sin crashpad pero con agua)
 12- Escalada urbana: Se realiza en cualquier estructura que se encuentre en la ciudad. Este tipo de escalada tiene mucha afición en Holanda.
+
+nota al pie
